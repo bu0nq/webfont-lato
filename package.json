@@ -1,6 +1,6 @@
 {
   "name": "@bu0nq/webfont-lato",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Package for integrating WebFont Lato",
   "main": "css/all.css",
   "files": [
