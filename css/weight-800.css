@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Lato', sans-serif;
-    src: url('../fonts/800-italic.woff2') format('woff2'), url('../fonts/800-italic.woff') format('woff'), url('../fonts/800-italic.ttf') format('truetype');
+    src: url('../fonts/lato-800-italic.woff2') format('woff2'), url('../fonts/lato-800-italic.woff') format('woff'), url('../fonts/lato-800-italic.ttf') format('truetype');
     font-weight: 800;
     font-style: italic;
     font-display: var(--font-display-lato, var(--font-display, swap));
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Lato', sans-serif;
-    src: url('../fonts/800-normal.woff2') format('woff2'), url('../fonts/800-normal.woff') format('woff'), url('../fonts/800-normal.ttf') format('truetype');
+    src: url('../fonts/lato-800-normal.woff2') format('woff2'), url('../fonts/lato-800-normal.woff') format('woff'), url('../fonts/lato-800-normal.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
     font-display: var(--font-display-lato, var(--font-display, swap));
